@@ -63,6 +63,15 @@ We implemented and evaluated several machine learning methods including Random F
 ## Results
 Our models were rigorously tested and tuned, with the Random Forest model performing the best in terms of accuracy. The project journey encompassed different feature combinations, model testing, and preprocessing techniques. The final best-performing Random Forest model achieved an accuracy of 0.814857 on the validation set and 0.8227 on the test set.
 
+## Files in this repository
+1. Assignment_2_FML_DSBA.pdf - The PDF released by the professor, stating the guidelines and requirements for this Kaggle Challenge
+2. train_set.csv - The dataset to be used for training your ML model
+3. test_set.csv - The dataset on which predictions were required to be submitted on Kaggle
+4. sample_submission.ipynb - Python file containing the baseline code that can be used to prepare for modeling
+5. Assignment_2_Team_District_12.ipynb - The code containing the end to end execution of the final best performing model that gave the highest accuracy score on Kaggle Leaderboard
+6. Best Score on Test Set_submission.csv - File containing the final predictions generated for test.csv that gave the highest accuracy score on Kaggle Leaderboard
+7. FML Assignment 2_Kaggle Challenge Report_District 12.pdf - Final report describing the end to end execution of the project.
+
 ## Help and Contributions
 For help and issues, please open an issue in the repository. Contributions to the model or analysis are welcome via pull requests.
 
