@@ -42,6 +42,10 @@ As part of our credit score classification challenge, we have at our disposal a 
 | Monthly_Balance         | Balance amount each month                     |
 | Credit_Score            | Customer's credit score  
 
+## Source of Data: 
+
+You can download the train and test data in csv format here - https://www.kaggle.com/competitions/fml-kaggle-challenge-credit-score-classification/data
+
 ## Evaluation
 The evaluation section describes how submissions will be scored and how participants should format their submissions. You don't need a sub-title at the top; the page title appears above. Below is an example of a typical evaluation page. Submissions are evaluated on Accuracy Score between the predicted probability and the observed target.
 
