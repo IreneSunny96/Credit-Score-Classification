@@ -1,6 +1,6 @@
 # Credit-Score-Classification
 ## Overview : 
-This project is part of the Multi-Class Credit Score Classification Kaggle Challenge that aimed to develop an advanced machine learning model to categorize clients into distinct credit score brackets. The model was designed using a dataset that included demographic information, banking history, utilization, and payment behavior. Below is the description given by the Kaggle Challenge Organisers
+This project is part of the Multi-Class Credit Score Classification Kaggle Challenge under the Machine Learning coursework, that aimed to develop an advanced machine learning model to categorize clients into distinct credit score brackets. The model was designed using a dataset that included demographic information, banking history, utilization, and payment behavior. Below is the description given by the Kaggle Challenge Organisers
 
 ## Business Challenge:
 The top brass (your management) has laid down a strategic initiative: to streamline the credit assessment process. They envisage an automated system that can swiftly and accurately categorize clients into distinct credit score brackets, thereby enhancing the efficiency of the credit evaluation process and enabling more informed decision-making.
